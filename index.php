@@ -12,7 +12,7 @@ require "lib/Vktoken.php";
 require "lib/convert.php";
 
 
-    $vk =  new Vktoken('3872689','http://www.jewins.com/index.php','WH2Avcc14XKH1sDh0F7E');
+    $vk =  new Vktoken('kode_id','req_url','secret_code');
 ?>
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
