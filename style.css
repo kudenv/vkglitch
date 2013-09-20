@@ -1,0 +1,22 @@
+*, html, body {margin: 0; padding: 0}
+.link {display: block;
+    width: 200px;
+    height: 50px;
+    color: #fff;
+    background: #000;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 13px 0px 0px 24px;
+    margin: 0 auto;
+    position: fixed;
+    top: 45%;
+    left: 45%;
+    margin-left: -100px;
+    }
+.background {width: 1000px; height: 100%; position: relative;}
+.list-ul {clear: both;list-style-type: none;}
+.list-ul li {display: block; float: left;margin-left: 10px;}
+.wrapper {position: fixed; left:30%; top:10%}
+
